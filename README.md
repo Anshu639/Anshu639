@@ -53,5 +53,3 @@ Designed and implemented an IoT-based Social Distancing Reminder system to enhan
 ## 📬 Contact Me
 - Email: [akbhatt639@gmail.com](mailto:akbhatt639@gmail.com)
 
-## 📈 Contributions
-[![Aakash Bhatt's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Anshu639&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
