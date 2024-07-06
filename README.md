@@ -48,7 +48,7 @@ Designed and implemented an IoT-based Social Distancing Reminder system to enhan
 - **[AWS Certified Solutions Architect](https://www.linkedin.com/posts/aakash-bhatt-940452260_aws-activity-7021400967925370880-Z0QN?utm_source=share&utm_medium=member_desktop)** – Earned AWS Certified Solutions Architect – Associate.
 - **[Java Programming Masterclass for Software Developers](https://www.linkedin.com/posts/aakash-bhatt-940452260_java-activity-7021401382276509696-BfVQ?utm_source=share&utm_medium=member_desktop)** – Completed a comprehensive Java programming course on Udemy.
 - **[Linux Mastery: Master the Linux Command Line](https://www.linkedin.com/posts/aakash-bhatt-940452260_linux-activity-7021400723837886464-2FU2?utm_source=share&utm_medium=member_desktop)** – Completed a Udemy course for mastering the Linux command line.
-- **[The Complete SQL Bootcamp 2023](https://www.linkedin.com/posts/aakash-bhatt-940452260_sql-activity-7021401132091275264-s5s6?utm_source=share&utm_medium=member_desktop)** – Completed a complete SQL course on Udemy.
+- **[The Complete SQL Bootcamp 2023](https://www.linkedin.com/posts/aakash-bhatt-940452260_sql-activity-7028762380457107457-Kq9J?utm_source=share&utm_medium=member_desktop)** – Completed a complete SQL course on Udemy.
 
 ## 📬 Contact Me
 - Email: [akbhatt639@gmail.com](mailto:akbhatt639@gmail.com)
