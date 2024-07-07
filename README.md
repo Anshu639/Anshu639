@@ -5,13 +5,15 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Anshu639&color=blue)
 
 ## 🔭 Current Projects
-### [UG Tour and Travel Management Portal](https://github.com/Anshu639/UG-TourAndTravelManagementPortal.git) 
-*September 2022 – December 2022*  
-Developed a comprehensive travel portal using IntelliJ, Workbench, Java, and SQL. The application allows users to book tour packages, hotels, and transportation. It supports full CRUD operations for managing customers, hotels, and other related entities.
 
 ### [Styles n Smiles](https://github.com/Anshu639/UG-StylesAndSmiles-FullStackWebSite.git)
 *January 2023 – May 2023*  
 Designed and developed a dynamic, visually appealing salon website using the MERN stack (MongoDB, Express.js, React, Node.js). The website features an intuitive interface for booking appointments, exploring services, and accessing salon information.
+
+### [UG Tour and Travel Management Portal](https://github.com/Anshu639/UG-TourAndTravelManagementPortal.git) 
+*September 2022 – December 2022*  
+Developed a comprehensive travel portal using IntelliJ, Workbench, Java, and SQL. The application allows users to book tour packages, hotels, and transportation. It supports full CRUD operations for managing customers, hotels, and other related entities.
+
 
 ## 🌱 Learning & Growth
 - Exploring new technologies such as **[Application Development](https://www.linkedin.com/in/aakash-bhatt-940452260/)** and **[Advanced Java](https://www.linkedin.com/in/aakash-bhatt-940452260/)**.
