@@ -6,7 +6,7 @@
 
 ## 🔭 Current Projects
 
-### [Styles n Smiles](https://github.com/Anshu639/UG-StylesAndSmiles-Full-Stack-WebSite.git)
+### [Styles n Smiles]( https://anshu639.github.io/UG-StylesAndSmiles-Full-Stack-WebSite/)
 *January 2023 – May 2023*  
 Designed and developed a dynamic, visually appealing salon website using the MERN stack (MongoDB, Express.js, React, Node.js). The website features an intuitive interface for booking appointments, exploring services, and accessing salon information.
 
