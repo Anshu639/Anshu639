@@ -22,8 +22,7 @@ Developed a comprehensive travel portal using IntelliJ, Workbench, Java, and SQL
 ## 💼 Professional Experience
 ### [IBM Internship - IoT-Based Social Distancing Reminder](https://www.linkedin.com/posts/aakash-bhatt-940452260_successfully-completed-my-internship-with-activity-7021388628853465088-zOcz?utm_source=share&utm_medium=member_desktop)
 *June 2022 – August 2022*  
-Designed and implemented an IoT-based Social Distancing Reminder system to enhance workplace safety during the COVID-19 pandemic. Collaborated with a cross-functional team to integrate sensors and real-time data analytics for accurate distance monitoring and timely alerts, leading to successful adoption across multiple departments.
-
+I designed and implemented an IoT-based Social Distancing Reminder system using Arduino IDE to enhance workplace safety during the COVID-19 pandemic. This project involved integrating various sensors to monitor social distancing in real-time and collaborating with a cross-functional team to ensure accurate distance monitoring and timely alerts. By utilizing real-time data analytics, the system effectively tracked and reminded individuals to maintain appropriate distances. The successful adoption of this system across multiple departments significantly contributed to creating a safer work environment.
 ## 🏆 Achievements
 - 🎖️ **[Earned C Programming Badge on HackerRank](https://www.hackerrank.com/domains/c)** – Successfully completed [HackerRank's C Challenge](https://www.hackerrank.com/profile/akbhatt639) and earned a badge for demonstrating strong skills in C programming.
 
