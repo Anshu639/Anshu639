@@ -6,6 +6,13 @@
 
 ## 🔭 Current Projects
 
+### [HTML-CSS-JS-Taskify]( https://anshu639.github.io/PG_HTML_CSS_JS_Question-TaskBar-Project/)
+*October 2023 – December 2023*  
+ I have completed basic tasks and questions in HTML, CSS, and JavaScript, which helped solidify my foundational skills in web
+ development. As part of this learning process, I developed a dice game using these technologies. The game features a user-friendly
+ interface and dynamic interactivity, demonstrating my ability to apply HTML for structure, CSS for styling, and JavaScript for
+ functionality.
+
 ### [Styles n Smiles]( https://anshu639.github.io/UG-StylesAndSmiles-Full-Stack-WebSite/)
 *January 2023 – May 2023*  
 Designed and developed a dynamic, visually appealing salon website using the MERN stack (MongoDB, Express.js, React, Node.js). The website features an intuitive interface for booking appointments, exploring services, and accessing salon information.
