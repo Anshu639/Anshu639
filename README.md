@@ -15,7 +15,9 @@
 
 ### [Styles n Smiles]( https://anshu639.github.io/UG-StylesAndSmiles-Full-Stack-WebSite/)
 *January 2023 – May 2023*  
-Designed and developed a dynamic, visually appealing salon website using the MERN stack (MongoDB, Express.js, React, Node.js). The website features an intuitive interface for booking appointments, exploring services, and accessing salon information.
+ Designed and developed a dynamic and visually appealing salon website using React , backed by the MERN stack (MongoDB,
+ Express.js, React, Node.js). The website seamlessly integrates modern aesthetics with cutting-edge technology to offer salon
+ enthusiasts a delightful user experience.
 
 ### [UG Tour and Travel Management Portal](https://github.com/Anshu639/UG-TourAndTravelManagementPortal.git) 
 *September 2022 – December 2022*  
